@@ -1,7 +1,5 @@
 # RequestsThrottler: HTTP requests throttler
 
-_Fork of the original to remove log handlers that are interfering with my own logging efforts_
-
 RequestsThrottler is an Apache2 Licensed HTTP library, written in Python, and powered by futures and [Requests](https://github.com/kennethreitz/requests).
 See the [full documentation](http://pythonhosted.org/RequestsThrottler).
 
